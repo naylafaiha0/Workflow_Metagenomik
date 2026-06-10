@@ -140,8 +140,8 @@ Pohon filogenetik di bawah ini dibangun menggunakan metode **Neighbor-Joining** 
 
 | Spesies | Klade | Bootstrap | Keterangan |
 |---|---|---|---|
-| *Halopseudomonas aestusnigri* | Klade I | 100 | Satu klade dengan *P. mendocina* |
-| *Pseudomonas mendocina* | Klade I | 100 | Kekerabatan sangat erat |
+| *Halopseudomonas aestusnigri* | Klade I | 1000 | Satu klade dengan *P. mendocina* |
+| *Pseudomonas mendocina* | Klade I | 1000 | Kekerabatan sangat erat |
 | *Chromohalobacter salexigens* | Klade II | 45 | Bercabang dari nenek moyang Klade I & II |
 | *Marinobacter nauticus* | Klade III | 61 | Satu klade dengan *P. lipolytica* |
 | *Pseudoalteromonas lipolytica* | Klade III | 61 | Kekerabatan erat dengan *M. nauticus* |
